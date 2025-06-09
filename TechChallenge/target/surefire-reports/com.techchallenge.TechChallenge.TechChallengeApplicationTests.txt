@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.techchallenge.TechChallenge.TechChallengeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.061 s -- in com.techchallenge.TechChallenge.TechChallengeApplicationTests

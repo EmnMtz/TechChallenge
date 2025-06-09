@@ -1,0 +1,9 @@
+com\techchallenge\repository\AccountRepo.class
+com\techchallenge\config\WebMvcConfig.class
+com\techchallenge\TechChallengeApplication.class
+com\techchallenge\config\SecurityConfig.class
+com\techchallenge\model\RegisterDTO.class
+com\techchallenge\controller\HomeController.class
+com\techchallenge\controller\AccountController.class
+com\techchallenge\service\LoginService.class
+com\techchallenge\model\Account.class
